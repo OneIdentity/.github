@@ -5,12 +5,11 @@ Increase the value you get from One Identity products by leveraging the power of
 ## Identity Manager
 | Tools and Scripting | Solution Accelerators |
 | :--- | :--- |
-| [Ansible](https://github.com/OneIdentity/ansible-privilege-manager) | [Behavior Driven Governance](https://github.com/OneIdentity/BehaviorDrivenGovernance) |
+| [PowerBI](https://github.com/OneIdentity/IdentityManager.PowerBI) | [Behavior Driven Governance](https://github.com/OneIdentity/BehaviorDrivenGovernance) |
 | [Docker Files](https://github.com/OneIdentity/IdentityManager.Dockerfiles) | [CIEM for Azure](https://github.com/OneIdentity/IdentityManager.CIEMForAzure) |
 | [HTML5 Applications](https://github.com/OneIdentity/IdentityManager.Imx) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) |
 | [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [Software Distribution Module](https://github.com/OneIdentity/IdentityManager.SDL) |
 | [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) |
-| [PowerBI](https://github.com/OneIdentity/IdentityManager.PowerBI) |  |
 
 ## Safeguard
 ### Safeguard for Privileged Passwords
@@ -42,6 +41,9 @@ Increase the value you get from One Identity products by leveraging the power of
 - [Samba idmap](https://github.com/OneIdentity/vasidmapd)
 - [Resource Central Legacy](https://github.com/OneIdentity/rc-legacy)
 - [Apache mod_auth_vas](https://github.com/OneIdentity/mod_auth_vas)
+
+### Safeguard for Sudo
+- [Ansible](https://github.com/OneIdentity/ansible-privilege-manager)
 
 ## Active Roles
 - [Active Roles Safeguard JIT Access](https://github.com/OneIdentity/ActiveRoles-Safeguard-JIT-Access)
