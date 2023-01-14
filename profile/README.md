@@ -10,7 +10,8 @@ Increase the value you get from One Identity products by leveraging the power of
 | [HTML5 Applications](https://github.com/OneIdentity/IdentityManager.Imx) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) |
 | [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [Software Distribution Module](https://github.com/OneIdentity/IdentityManager.SDL) |
 | [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) |
-
+| [LogInsights](https://github.com/OneIdentity/IdentityManager.LogInsights) ||
+| [IMX](https://github.com/OneIdentity/IdentityManager.imx) ||
 ## Safeguard
 ### Safeguard for Privileged Passwords
 | Add-Ons | SDKs | Scripting Resources |
