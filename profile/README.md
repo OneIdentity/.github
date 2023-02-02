@@ -18,7 +18,7 @@ Increase the value you get from One Identity products by leveraging the power of
 | [Safeguard Secrets Broker](https://github.com/OneIdentity/SafeguardDevOpsService) | [SafeguardJava](https://github.com/OneIdentity/SafeguardJava) | [safeguard-discovery](https://github.com/OneIdentity/safeguard-discovery) |
 | [Active Roles Safeguard JIT Access](https://github.com/OneIdentity/ActiveRoles-Safeguard-JIT-Access) | [PySafeguard](https://github.com/OneIdentity/PySafeguard) | [safeguard-bash](https://github.com/OneIdentity/safeguard-bash) |
 | [Safeguard Custom Platform](https://github.com/OneIdentity/SafeguardCustomPlatform) | [safeguard.js](https://github.com/OneIdentity/safeguard.js) | [Safeguard API Tutorial](https://github.com/OneIdentity/safeguard-api-tutorial) |
-| [Safeguard Session Automation](https://github.com/OneIdentity/SafeguardAutomation) |  |  |
+| [Safeguard Session Automation](https://github.com/OneIdentity/SafeguardAutomation) |  | [safeguard-ansible](https://github.com/OneIdentity/safeguard-ansible)  |
 
 ### Safeguard for Privileged Sessions
 | SDK / Custom Plugins | AuthN / AuthZ - AA Plugins | Credential Store Plugins |
