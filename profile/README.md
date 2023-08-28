@@ -28,7 +28,7 @@ Increase the value you get from One Identity products by leveraging the power of
 | [SRA Initiated](https://github.com/OneIdentity/safeguard-sessions-plugin-sra-initiated) | [FQDN Auth](https://github.com/OneIdentity/safeguard-sessions-plugin-fqdnauth) | [Thycotic Secret Server](https://github.com/OneIdentity/safeguard-sessions-plugin-thycotic-secret-server) |
 |  | [InWebo MFA](https://github.com/OneIdentity/safeguard-sessions-plugin-inwebo-mfa) | [HashiCorp Vault](https://github.com/OneIdentity/safeguard-sessions-plugin-hashicorp-vault) |
 |  | [Okta MFA](https://github.com/OneIdentity/safeguard-sessions-plugin-okta-mfa) | [TPAM](https://github.com/OneIdentity/safeguard-sessions-plugin-tpam) |
-|  | [One Login](https://github.com/OneIdentity/safeguard-sessions-plugin-onelogin) |  |
+|  | [OneLogin](https://github.com/OneIdentity/safeguard-sessions-plugin-onelogin) |  |
 |  | [Ping ID](https://github.com/OneIdentity/safeguard-sessions-plugin-pingid) |  |
 |  | [RADIUS MFA](https://github.com/OneIdentity/safeguard-sessions-plugin-radius-mfa) |  |
 |  | [ServiceNow](https://github.com/OneIdentity/safeguard-sessions-plugin-servicenow) |  |
