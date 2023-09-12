@@ -3,13 +3,13 @@
 Increase the value you get from One Identity products by leveraging the power of open source solutions, add-ons, plugins, SDKs, and scripting libraries.  One Identity products provide open APIs to enable customization and deep integration into your environment for our market-leading solutions.
 
 ## Identity Manager
-| Tools and Scripting | Solution Accelerators |
-| :--- | :--- |
-| [PowerBI](https://github.com/OneIdentity/IdentityManager.PowerBI) | [Behavior Driven Governance](https://github.com/OneIdentity/BehaviorDrivenGovernance) |
-| [Docker Files](https://github.com/OneIdentity/IdentityManager.Dockerfiles) | [CIEM for Azure](https://github.com/OneIdentity/IdentityManager.CIEMForAzure) |
-| [HTML5 Applications](https://github.com/OneIdentity/IdentityManager.Imx) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) |
-| [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [Software Distribution Module](https://github.com/OneIdentity/IdentityManager.SDL) |
-| [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) |
+| Tools and Scripting | Solution Accelerators | Archived |
+| :--- | :--- | :--- |
+| [PowerBI](https://github.com/OneIdentity/IdentityManager.PowerBI) | [CIEM for Azure](https://github.com/OneIdentity/IdentityManager.CIEMForAzure) | [Behavior Driven Governance](https://github.com/OneIdentity/BehaviorDrivenGovernance) |
+| [Docker Files](https://github.com/OneIdentity/IdentityManager.Dockerfiles) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) | |
+| [HTML5 Applications](https://github.com/OneIdentity/IdentityManager.Imx) | [Software Distribution Module](https://github.com/OneIdentity/IdentityManager.SDL) | |
+| [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) | |
+| [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | | |
 ## Safeguard
 ### Safeguard for Privileged Passwords
 | Add-Ons | SDKs | Scripting Resources |
