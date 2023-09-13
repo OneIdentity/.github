@@ -9,7 +9,7 @@ Increase the value you get from One Identity products by leveraging the power of
 | [Docker Files](https://github.com/OneIdentity/IdentityManager.Dockerfiles) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) | |
 | [HTML5 Applications](https://github.com/OneIdentity/IdentityManager.Imx) | [Software Distribution Module](https://github.com/OneIdentity/IdentityManager.SDL) | |
 | [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) | |
-| [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | | |
+| [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | PoSh Connector Generator (https://github.com/OneIdentity/IdentityManager.PoSh-Connector-Generator) | |
 ## Safeguard
 ### Safeguard for Privileged Passwords
 | Add-Ons | SDKs | Scripting Resources |
