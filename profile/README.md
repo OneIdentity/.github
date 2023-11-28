@@ -11,6 +11,7 @@ Increase the value you get from One Identity products by leveraging the power of
 | [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) | |
 | [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | [IdentityManager.PoSh Connector Generator](https://github.com/OneIdentity/IdentityManager.PoSh-Connector-Generator) | |
 | | [IDM SIEM CEF Event Feed](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed) | |
+| | [IGA Risk Dashboard](https://github.com/OneIdentity/IdentityManager.IGARiskDashboard) | |
 ## Safeguard
 ### Safeguard for Privileged Passwords
 | Add-Ons | SDKs | Scripting Resources |
