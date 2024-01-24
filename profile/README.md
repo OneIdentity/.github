@@ -49,3 +49,6 @@ Increase the value you get from One Identity products by leveraging the power of
 ## Active Roles
 - [Active Roles Safeguard JIT Access](https://github.com/OneIdentity/ActiveRoles-Safeguard-JIT-Access)
 - [ars-ps](https://github.com/OneIdentity/ars-ps)
+
+## Password Manager
+- [PwndPasswords Checker](https://github.com/OneIdentity/Password-Manager-PwnedPasswords-Checker-with-HIBP)
