@@ -3,15 +3,16 @@
 Increase the value you get from One Identity products by leveraging the power of open source solutions, add-ons, plugins, SDKs, and scripting libraries.  One Identity products provide open APIs to enable customization and deep integration into your environment for our market-leading solutions.
 
 ## Identity Manager
-| Tools and Scripting | Solution Accelerators | Archived |
-| :--- | :--- | :--- |
-| [PowerBI](https://github.com/OneIdentity/IdentityManager.PowerBI) | [CIEM for Azure](https://github.com/OneIdentity/IdentityManager.CIEMForAzure) | [Behavior Driven Governance](https://github.com/OneIdentity/BehaviorDrivenGovernance) |
-| [Docker Files](https://github.com/OneIdentity/IdentityManager.Dockerfiles) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) | |
-| [HTML5 Applications](https://github.com/OneIdentity/IdentityManager.Imx) | [Software Distribution Module](https://github.com/OneIdentity/IdentityManager.SDL) | |
-| [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) | |
-| [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | [IdentityManager.PoSh Connector Generator](https://github.com/OneIdentity/IdentityManager.PoSh-Connector-Generator) | |
-| | [IDM SIEM CEF Event Feed](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed) | |
-| | [IGA Risk Dashboard](https://github.com/OneIdentity/IdentityManager.IGARiskDashboard) | |
+| Tools and Scripting | Solution Accelerators | Additional Documentation | Archived |
+| :--- | :--- | :--- | :--- |
+| [PowerBI](https://github.com/OneIdentity/IdentityManager.PowerBI) | [CIEM for Azure](https://github.com/OneIdentity/IdentityManager.CIEMForAzure) | [PowerShell Connector Guide](https://github.com/OneIdentity/IdentityManager.PoSh-Connector-Guide) | [Behavior Driven Governance](https://github.com/OneIdentity/BehaviorDrivenGovernance) |
+| [Docker Files](https://github.com/OneIdentity/IdentityManager.Dockerfiles) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) | | |
+| [HTML5 Applications](https://github.com/OneIdentity/IdentityManager.Imx) | [Software Distribution Module](https://github.com/OneIdentity/IdentityManager.SDL) | | |
+| [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) | | |
+| [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | [IdentityManager.PoSh Connector Generator](https://github.com/OneIdentity/IdentityManager.PoSh-Connector-Generator) | | |
+| | [IDM SIEM CEF Event Feed](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed) | | |
+| | [IGA Risk Dashboard](https://github.com/OneIdentity/IdentityManager.IGARiskDashboard) | | |
+
 ## Safeguard
 ### Safeguard for Privileged Passwords
 | Add-Ons | SDKs | Scripting Resources |
