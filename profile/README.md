@@ -6,7 +6,7 @@ Increase the value you get from One Identity products by leveraging the power of
 | Tools and Scripting | Solution Accelerators | Additional Documentation | Archived |
 | :--- | :--- | :--- | :--- |
 | [PowerBI](https://github.com/OneIdentity/IdentityManager.PowerBI) | [CIEM for Azure](https://github.com/OneIdentity/IdentityManager.CIEMForAzure) | [PowerShell Connector Guide](https://github.com/OneIdentity/IdentityManager.PoSh-Connector-Guide) | [Behavior Driven Governance](https://github.com/OneIdentity/BehaviorDrivenGovernance) |
-| [Docker Files](https://github.com/OneIdentity/IdentityManager.Dockerfiles) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) | | [IDM SIEM CEF Event Feed](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed)|
+| [Docker Files](https://github.com/OneIdentity/IdentityManager.Dockerfiles) | [CyberArk](https://github.com/OneIdentity/IdentityManager.CyberArk) | [API plugin development](https://github.com/OneIdentity/IdentityManager.ApiSdk) | [IDM SIEM CEF Event Feed](https://github.com/OneIdentity/IdentityManager.SIEMEventFeed)|
 | [HTML5 Applications](https://github.com/OneIdentity/IdentityManager.Imx) | [Software Distribution Module](https://github.com/OneIdentity/IdentityManager.SDL) | | |
 | [Azure App Insights](https://github.com/OneIdentity/IdentityManager.LogInsights) | [VeriClouds](https://github.com/OneIdentity/IdentityManager.VeriClouds) | | |
 | [IdentityManager.PoSh](https://github.com/OneIdentity/IdentityManager.PoSh) | [IdentityManager.PoSh Connector Generator](https://github.com/OneIdentity/IdentityManager.PoSh-Connector-Generator) | | |
