@@ -35,6 +35,7 @@ Increase the value you get from One Identity products by leveraging the power of
 |  | [RADIUS MFA](https://github.com/OneIdentity/safeguard-sessions-plugin-radius-mfa) |  |
 |  | [ServiceNow](https://github.com/OneIdentity/safeguard-sessions-plugin-servicenow) |  |
 |  | [Yubikey MFA](https://github.com/OneIdentity/safeguard-sessions-plugin-yubikey-mfa) |  |
+|  | [Shared Sessions Sample](https://github.com/OneIdentity/safeguard-sessions-plugin-sample-aa-plugin-for-shared-sessions) |  |
 
 ### Safeguard Authentication Services
 - [Ansible](https://github.com/OneIdentity/ansible-authentication-services)
