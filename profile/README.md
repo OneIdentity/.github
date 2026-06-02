@@ -48,6 +48,7 @@ Increase the value you get from One Identity products by leveraging the power of
 - [Ansible](https://github.com/OneIdentity/ansible-privilege-manager)
 
 ## Active Roles
+- [Active Roles Environment Assessment Report](https://github.com/OneIdentity/active-roles-assessment-script)
 - [Active Roles Safeguard JIT Access](https://github.com/OneIdentity/ActiveRoles-Safeguard-JIT-Access)
 - [ars-ps](https://github.com/OneIdentity/ars-ps)
 
