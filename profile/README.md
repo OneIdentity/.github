@@ -14,13 +14,13 @@ Increase the value you get from One Identity products by leveraging the power of
 
 ## Safeguard
 ### Safeguard for Privileged Passwords
-| Add-Ons | SDKs | Scripting Resources | AI Resources |
-| :--- | :--- | :--- | :--- |
-| [SCALUS session launcher](https://github.com/OneIdentity/SCALUS) | [SafeguardDotNet](https://github.com/OneIdentity/SafeguardDotNet) | [safeguard-ps](https://github.com/OneIdentity/safeguard-ps) | [safeguard-mcp](https://github.com/OneIdentity/safeguard-mcp) |
-| [Safeguard Secrets Broker](https://github.com/OneIdentity/SafeguardDevOpsService) | [SafeguardJava](https://github.com/OneIdentity/SafeguardJava) | [safeguard-bash](https://github.com/OneIdentity/safeguard-bash) | [Safeguard Custom Platform](https://github.com/OneIdentity/SafeguardCustomPlatform) |
-| [Active Roles Safeguard JIT Access](https://github.com/OneIdentity/ActiveRoles-Safeguard-JIT-Access) | [PySafeguard](https://github.com/OneIdentity/PySafeguard) | [safeguard-ansible](https://github.com/OneIdentity/safeguard-ansible) | |
-| [Safeguard Session Automation](https://github.com/OneIdentity/SafeguardAutomation) | [safeguard.js](https://github.com/OneIdentity/safeguard.js) | [Safeguard API Tutorial](https://github.com/OneIdentity/safeguard-api-tutorial) | |
-| | [safeguard-go](https://github.com/OneIdentity/safeguard-go) | | |
+| Add-Ons | SDKs | Scripting Resources | AI Resources | Integrations |
+| :--- | :--- | :--- | :--- | :--- |
+| [SCALUS session launcher](https://github.com/OneIdentity/SCALUS) | [SafeguardDotNet](https://github.com/OneIdentity/SafeguardDotNet) | [safeguard-ps](https://github.com/OneIdentity/safeguard-ps) | [safeguard-mcp](https://github.com/OneIdentity/safeguard-mcp) | [safeguard-csi-provider](https://github.com/OneIdentity/safeguard-csi-provider) |
+| [Safeguard Secrets Broker](https://github.com/OneIdentity/SafeguardDevOpsService) | [SafeguardJava](https://github.com/OneIdentity/SafeguardJava) | [safeguard-bash](https://github.com/OneIdentity/safeguard-bash) | [Safeguard Custom Platform](https://github.com/OneIdentity/SafeguardCustomPlatform) | |
+| [Active Roles Safeguard JIT Access](https://github.com/OneIdentity/ActiveRoles-Safeguard-JIT-Access) | [PySafeguard](https://github.com/OneIdentity/PySafeguard) | [safeguard-ansible](https://github.com/OneIdentity/safeguard-ansible) | | |
+| [Safeguard Session Automation](https://github.com/OneIdentity/SafeguardAutomation) | [safeguard.js](https://github.com/OneIdentity/safeguard.js) | [Safeguard API Tutorial](https://github.com/OneIdentity/safeguard-api-tutorial) | | |
+| | [safeguard-go](https://github.com/OneIdentity/safeguard-go) | | | |
 
 ### Safeguard for Privileged Sessions
 | SDK / Custom Plugins | AuthN / AuthZ - AA Plugins | Credential Store Plugins |
